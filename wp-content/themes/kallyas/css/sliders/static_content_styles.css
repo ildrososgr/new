@@ -115,7 +115,7 @@
 .sc__screenshot .image img {width: 100%;}
 
 /* Loupe */
-.sc__loupe{ cursor:url(https://github.com/ildrososgr/new/wp-content/themes/kallyas/addons/jquery_loupe/blank.png), url(https://github.com/ildrososgr/new/wp-content/themes/kallyas/addons/jquery_loupe/blank.cur), none; border:2px solid white; background-repeat:no-repeat; background-position:center center; background-color:#fff; position:absolute; display:none; width:150px; height:150px; box-shadow:0 0 5px #777, 0 0 10px #aaa inset; border-radius:50%; z-index: 1000; margin: 0px; padding: 0px; }
+.sc__loupe{ cursor:url(https://ildrososgr.github.io/new/wp-content/themes/kallyas/addons/jquery_loupe/blank.png), url(https://ildrososgr.github.io/new/wp-content/themes/kallyas/addons/jquery_loupe/blank.cur), none; border:2px solid white; background-repeat:no-repeat; background-position:center center; background-color:#fff; position:absolute; display:none; width:150px; height:150px; box-shadow:0 0 5px #777, 0 0 10px #aaa inset; border-radius:50%; z-index: 1000; margin: 0px; padding: 0px; }
 .sc__loupe .glossy {display: block; margin: 0px; background: -moz-linear-gradient(top, rgba(255,255,255,.6) 0%, rgba(255,255,255,0) 100%); background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(255,255,255,.6)), color-stop(100%,rgba(255,255,255,0))); }
 .static-content__slideshow .static-content .sc__features {margin:30px 0;}
 .static-content .sc__features li {font-size: 16px; font-weight: 300; margin-bottom: 10px;padding-bottom: 10px;border-bottom: 1px dotted rgba(255,255,255,0.4);}
